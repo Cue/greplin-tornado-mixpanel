@@ -26,7 +26,7 @@ setup(name='greplin-tornado-mixpanel',
       license='Apache',
       author='Greplin, Inc.',
       author_email='opensource@greplin.com',
-      url='http://www.github.com/Greplin/greplin-tornado-mixpanel',
+      url='https://www.github.com/Cue/greplin-tornado-mixpanel',
       package_dir = {'':'src'},
       packages = [
         'greplin',
